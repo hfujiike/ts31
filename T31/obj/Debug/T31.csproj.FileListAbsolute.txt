@@ -1,0 +1,13 @@
+C:\aaMP\p_extool\TS31_170704\T31\obj\Debug\T31.csproj.ResolveComReference.cache
+C:\aaMP\p_extool\TS31_170704\T31\obj\Debug\T31.Form1.resources
+C:\aaMP\p_extool\TS31_170704\T31\obj\Debug\T31.Properties.Resources.resources
+C:\aaMP\p_extool\TS31_170704\T31\obj\Debug\T31.csproj.GenerateResource.Cache
+C:\aaMP\p_extool\TS31_170704\T31\bin\Debug\FGK31ES.exe.config
+C:\aaMP\p_extool\TS31_170704\T31\bin\Debug\FGK31ES.exe
+C:\aaMP\p_extool\TS31_170704\T31\bin\Debug\FGK31ES.pdb
+C:\aaMP\p_extool\TS31_170704\T31\obj\Debug\FGK31ES.exe
+C:\aaMP\p_extool\TS31_170704\T31\obj\Debug\FGK31ES.pdb
+C:\aaMP\p_extool\TS31_170704\T31\bin\Release\FGK31ES.exe.config
+C:\aaMP\p_extool\TS31_170704\T31\bin\Release\FGK31ES.exe
+C:\aaMP\p_extool\TS31_170704\T31\bin\Release\FGK31ES.pdb
+C:\aaMP\p_extool\TS31_170704\T31\obj\Debug\T31.csprojResolveAssemblyReference.cache

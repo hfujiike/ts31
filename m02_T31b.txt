@@ -1,0 +1,29 @@
+﻿a01 01 jouken file open 
+a02 01 jouken check start
+
+a03 01 joukenkakidashi start
+a11 01 excelin start
+a11 04 sheetend row: 29
+a11 05 sheetend col: 9
+a11 07 excelin ヘッダーの終わり調査 
+a11 07 excelin xcol: 4
+a11 07 excelin s_bun_t: 注先コード
+a11 12 excelin xrow: 10
+a11 12 excelin xr_headend: 10
+a11 13 excelin xr_datatop: 11
+a11 13 excelin xr_dataend: 29
+a11 16 excelin ソート $A$11,$I$29
+a11 81 excelin end 
+a12 01 excel out start 
+a13 01 ex bunkatsu: C:\aaMP\p_extool\TS31_170704\dd2\200001_注文データ2017-8.xlsx
+a13 11 ex fuyou del R: 14:29
+a13 01 ex bunkatsu: C:\aaMP\p_extool\TS31_170704\dd2\6752_注文データ2017-8.xlsx
+a13 11 ex fuyou del R: 16:29
+a13 12 ex fuyou del F: 11:13
+a13 01 ex bunkatsu: C:\aaMP\p_extool\TS31_170704\dd2\A111_注文データ2017-8.xlsx
+a13 11 ex fuyou del R: 23:29
+a13 12 ex fuyou del F: 11:15
+a13 01 ex bunkatsu: C:\aaMP\p_extool\TS31_170704\dd2\R444_注文データ2017-8.xlsx
+a13 12 ex fuyou del F: 11:22
+a12 91 excel out end 
+a91 91 正常終了 
